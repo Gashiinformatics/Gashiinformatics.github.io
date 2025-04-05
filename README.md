@@ -1,1 +1,0 @@
-# Gashiinformatics.github.io
