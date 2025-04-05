@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Your Name | Bioinformatics</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Your Name</h1>
+    <p>Senior Bioinformatics Student | Freelance Researcher</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>
+        I'm a senior undergrad in bioinformatics. I work on research projects involving genome analysis, microbial data, and more. I'm open for freelance collaborations!
+      </p>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <ul>
+        <li><strong>Genome Enhancer Finder</strong> – MEME, FIMO, BLAST</li>
+        <li><strong>16S rRNA Oral Microbiome Study</strong> – Mothur + MATLAB</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Links</h2>
+      <ul>
+        <li><a href="https://github.com/yourhandle" target="_blank">GitHub</a></li>
+        <li><a href="https://youtube.com/yourchannel" target="_blank">YouTube</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Contact Me</h2>
+      <p>Email: <a href="mailto:your@email.com">your@email.com</a></p>
+      <button onclick="contactClicked()">Click to connect</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Your Name</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
