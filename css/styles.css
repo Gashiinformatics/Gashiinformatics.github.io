@@ -3275,7 +3275,7 @@ img.u-pull-left {
  * ------------------------------------------------------------------- */
 @media screen and (max-width: 1400px) {
     .s-intro__text-huge {
-        --text-huge-size : 22rem;
+        --text-huge-size : 16rem;
     }
 }
 
